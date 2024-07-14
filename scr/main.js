@@ -1,12 +1,5 @@
-function sleep(ms) {
-  const end = Date.now() + ms;
-  while (Date.now() < end) {
-    // Busy-wait loop
-  }
+function c(){
+  console.log("Yes");
 }
 
-while (true) 
-{
-  console.log("Yes");
-  sleep(1000);
-}
+setInterval(c,1000)
