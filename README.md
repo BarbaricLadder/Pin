@@ -1,1 +1,1 @@
-I test stuff here to better leanr how to use some things
+I test stuff here to better learn how to use some things
